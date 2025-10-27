@@ -12,7 +12,7 @@ Cada estrutura de dados é desenvolvida do zero. Este não é um repositório co
 
 3 - gcc -Wall -g [NOME DO ARQUIVO].c -o output/[NOME DO ARQUIVO]
 
-4 - .\output\[NOME DO ARQUIVO]
+4 - .\output\\[NOME DO ARQUIVO]
 (shift + enter)
 pause
 
